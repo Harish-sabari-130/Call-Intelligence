@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+twilio
+openai
+numpy
+openai-whisper
+scipy
+python-dotenv
